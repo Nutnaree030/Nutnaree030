@@ -1,6 +1,6 @@
 # Welcome to Nutnaree030 profile, everyone 👋
 
-'Nutnaree Sookhong' or you can call me 'Nutty'! Now be studying in the 3rd year undergraduate student with Information Technology major, School of Information Technology at King Mongkut’s University of Technology Thonburi. Absolutely, be interest in Programming, Chatbot, Analytic & Innovation ...including  wanna be also the developer in some day that all the time I've been trying so hard to learn and try new one ... and maybe do it indefinitely.
+'Nutnaree Sookhong' or you can call me 'Nutty'! Now be studying in the 3rd year undergraduate student with Information Technology major, School of Information Technology at King Mongkut’s University of Technology Thonburi. Absolutely, be interest in Programming, Chatbot, Analytic and Innovation ...including  wanna be also the developer in some day that all the time I've been trying so hard to learn and try new one ... and from now, I will also do it indefinitely!
 
 ## 📫 Social
 [![Facebook Badge](https://img.shields.io/badge/-Nutnaree_Sookhong-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/nutnaree.sookhong)](https://www.facebook.com/nutnaree.sookhong)
@@ -39,7 +39,7 @@
 [![Resume](https://img.shields.io/badge/resume-blue?style=for-the-badge)](https://drive.google.com/file/d/17zqGb4NennQNEqa9iSOaBIY374-TJ7qQ/view?usp=sharing)
 
 ## 🌱 Experiences
-Responsibility : some parts of Front-end and Back-end.<br/>
+Responsibility : some parts of Front-end and Back-end such as contact admin, email notification and some pop-ups.<br/>
 [![OASIP](https://img.shields.io/badge/oasip:_integrated_project-teal?style=for-the-badge)](https://intproj21.sit.kmutt.ac.th/ssi5/)<br/>
 Responsibility : all of them such as Front-end, Back-end, Database, and others.<br/>
 [![Adonis](https://img.shields.io/badge/todoposts-pink?style=for-the-badge)](https://github.com/Nutnaree030/todoposts)<br/>
