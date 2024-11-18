@@ -17,17 +17,21 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=typescript&logoColor=blue)
 <br/>
+![React](https://img.shields.io/badge/React.js-60d1d4?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-navy?style=for-the-badge&logo=react&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-339886?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<br/>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring%20boot&logoColor=green)
 ![Vue](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Adonis](https://img.shields.io/badge/Adonisjs-purple?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 <br/>
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📈 Github Stat
 
