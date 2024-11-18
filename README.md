@@ -36,7 +36,7 @@
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nutnaree030&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=f5f5f5)](https://github.com/Nutnaree030)
 
 ## ⚡ My little summary
-[![Resume](https://img.shields.io/badge/resume-blue?style=for-the-badge)](https://drive.google.com/file/d/17zqGb4NennQNEqa9iSOaBIY374-TJ7qQ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/resume-blue?style=for-the-badge)](https://drive.google.com/file/d/1HW5Uf-Z_TzRM4tB3q11cXPYflFUyGp5A/view?usp=sharing)
 
 ## 🌱 Experiences
 Responsibility : some parts of Front-end and Back-end such as contact admin, email notification and some pop-ups.<br/>
@@ -45,6 +45,8 @@ Responsibility : all of them such as Front-end, Back-end, Database, and others.<
 [![Adonis](https://img.shields.io/badge/todoposts-pink?style=for-the-badge)](https://github.com/Nutnaree030/todoposts)<br/>
 Responsibility : all of them such as Analysis, Visualization and others.<br/>
 [![R_Markdown](https://img.shields.io/badge/my_r_workshop_example-yellow?style=for-the-badge)](https://nutnaree030.github.io/int214-workshop/)<br/>
+Responsibility : some parts of them such as Front-end, Database, and others.<br/>
+[![App](https://img.shields.io/badge/home_buddy-violet?style=for-the-badge)](https://github.com/kannika2545/HomeBuddy)<br/>
 
 <!--
 **Nutnaree030/Nutnaree030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
