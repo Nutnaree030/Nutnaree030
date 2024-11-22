@@ -23,7 +23,6 @@
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br/>
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring%20boot&logoColor=green)
-![Vue](https://img.shields.io/badge/Vue.js-green?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Adonis](https://img.shields.io/badge/Adonisjs-purple?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
