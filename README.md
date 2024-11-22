@@ -11,7 +11,6 @@
 ## 💻 My Tech Stack
 
 #### Some of Web Development Skills
-![Java](https://img.shields.io/badge/JAVA-CB3837?style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-orange?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -22,14 +21,18 @@
 ![Vue](https://img.shields.io/badge/Vue.js-339886?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 <br/>
+![Java](https://img.shields.io/badge/JAVA-CB3837?style=for-the-badge)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-white?style=for-the-badge&logo=spring%20boot&logoColor=green)
-![Adonis](https://img.shields.io/badge/Adonisjs-purple?style=for-the-badge&logo=adonisjs&logoColor=white)
+![Adonis](https://img.shields.io/badge/Adonis.js-purple?style=for-the-badge&logo=adonisjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 <br/>
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/Gitlab-gray?style=for-the-badge&logo=gitlab&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=blue)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-369553?style=for-the-badge&logo=mongodb&logoColor=black)
+<br/>
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
 ## 📈 Github Stat
@@ -43,7 +46,7 @@
 
 ## 🌱 Experiences
 Responsibility : some parts of Front-end and Back-end such as contact admin, email notification and some pop-ups.<br/>
-[![OASIP](https://img.shields.io/badge/oasip:_integrated_project-teal?style=for-the-badge)](https://intproj21.sit.kmutt.ac.th/ssi5/)<br/>
+[![OASIP](https://img.shields.io/badge/oasip:_integrated_project-teal?style=for-the-badge)](https://github.com/SoSira01/OASIP-SSI-5-INT222)<br/>
 Responsibility : all of them such as Front-end, Back-end, Database, and others.<br/>
 [![Adonis](https://img.shields.io/badge/todoposts-pink?style=for-the-badge)](https://github.com/Nutnaree030/todoposts)<br/>
 Responsibility : all of them such as Analysis, Visualization and others.<br/>
